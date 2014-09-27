@@ -29,6 +29,7 @@ setup(
     author='Zope Foundation and Contributors',
     author_email='zope-dev@zope.org',
     keywords="CipherHealth configuration storage configparser",
+    description='A small framework to store an object\'s state in a configuration file',
     long_description=(
         read('README.txt')
         + '\n\n' +
